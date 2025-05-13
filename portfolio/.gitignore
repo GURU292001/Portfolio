@@ -3,7 +3,7 @@ node_modules
 /node_modules/
 
 # Nuxt build files
-/.nuxt/
+.nuxt
 # Nuxt generate output
 /dist/
 
