@@ -1,9 +1,9 @@
 <template>
     <div>
       <Header />
-      <main>
+      <main class="mt-16">
         <slot />
-        <NuxtPages/>
+        <!-- <NuxtPages/> -->
       </main>
       <Footer />
     </div>
