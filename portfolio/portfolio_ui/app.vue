@@ -1,8 +1,9 @@
 <!-- app.vue -->
 <template>
-  <v-app>
+  <v-app >
+
     <NuxtLayout>
-      <NuxtPage />
+      <NuxtPage  />
     </NuxtLayout>
   </v-app>
   </template>

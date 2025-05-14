@@ -1,5 +1,5 @@
 <template>
-     <div  class=" bg-green-50 h-[500vh] bg-[url('@/assets/images/blackbg.png')] bg-repeat-y bg-center">
+     <div  class="  h-[500vh] bg-[url('@/assets/images/blackbg.png')] bg-repeat-y ">
         <About/>
         <Technologies/>
     </div>
