@@ -1,11 +1,11 @@
 <template>
-     <span  class="  h-[500vh] bg-[url('@/assets/images/blackbg.png')] bg-repeat-y  ">
+     <div  class=" h-[500vh]  bg-[url('/images/blackbg.png')]  bg-repeat-y  ">
         <About />
         <Technologies />
         <Project/>
         <Timeline/>
 
-    </span>
+     </div>
 </template>
 <script setup>
 import About from '~/components/About.vue';
